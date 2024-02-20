@@ -2,7 +2,7 @@
 
 This is my WhatsApp Clone, a React Native(EXPO). With Firebase integration.
 
-Features
+## Features
 1. Authentication (FireBase)
 Ensure the security of your conversations with OTP authentication. Your messages are in safe hands.
 
@@ -21,7 +21,7 @@ Bring your friends, family, and colleagues together with group chats. Share upda
 6. Firebase Integration
 Utilizing Firebase ensures a reliable and scalable backend for handling messages, media, and user authentication.
 
-Getting Started
+## Getting Started
 To get started with the WhatsApp Clone, follow these steps:
 
  - Create FireBase account and paste to .env your token
